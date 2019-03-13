@@ -1,0 +1,12 @@
+D:\CSharp\RestTask\Service.Model\bin\Debug\netstandard2.0\Service.Model.deps.json
+D:\CSharp\RestTask\Service.Model\bin\Debug\netstandard2.0\Service.Model.dll
+D:\CSharp\RestTask\Service.Model\bin\Debug\netstandard2.0\Service.Model.pdb
+D:\CSharp\RestTask\Service.Model\obj\Debug\netstandard2.0\Service.Model.csprojAssemblyReference.cache
+D:\CSharp\RestTask\Service.Model\obj\Debug\netstandard2.0\Service.Model.csproj.CoreCompileInputs.cache
+D:\CSharp\RestTask\Service.Model\obj\Debug\netstandard2.0\Service.Model.AssemblyInfoInputs.cache
+D:\CSharp\RestTask\Service.Model\obj\Debug\netstandard2.0\Service.Model.AssemblyInfo.cs
+D:\CSharp\RestTask\Service.Model\obj\Debug\netstandard2.0\Service.Model.dll
+D:\CSharp\RestTask\Service.Model\obj\Debug\netstandard2.0\Service.Model.pdb
+D:\CSharp\RestTask\Service.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\CSharp\RestTask\Service.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\CSharp\RestTask\Service.Model\obj\Debug\netstandard2.0\Service.Model.csproj.CopyComplete
